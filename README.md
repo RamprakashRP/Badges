@@ -1,2 +1,2 @@
 Badge 1 with Collabarotor 
-Now Des
+Now De
