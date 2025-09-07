@@ -1,2 +1,2 @@
 Badge 1 with Collabarotor 
-Now Desktop
+Now Deskto
