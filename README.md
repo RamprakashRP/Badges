@@ -1,1 +1,1 @@
-Badge 1 with Collab
+Badge 1 with Collabarotor
